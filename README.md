@@ -6,7 +6,7 @@
 
 | Questions                    | Solution | Status |
 | ---------------------------- | -------- | ------ |
-| [Search X in sorted array]() | [Link]() |        |
+| [Search X in sorted array]() | [Link]() | ✅      |
 | [Upper Bound]()              | [Link]() |        |
 | [Lower Bound]()              | [Link]() |        |
 
