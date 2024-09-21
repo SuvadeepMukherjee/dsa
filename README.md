@@ -14,8 +14,8 @@
 
 | Questions                                    | Solution | Status |
 | -------------------------------------------- | -------- | ------ |
-| Search Insert Position                       |          |        |
-| Floor and ceil in sorted array               |          |        |
+| Search Insert Position                       |          | ✅      |
+| Floor and ceil in sorted array               |          | ✅      |
 | First and last occurrence                    |          |        |
 | Search in rotated sorted array - 1           |          |        |
 | Search in rotated sorted array - 2           |          |        |
