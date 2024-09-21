@@ -18,8 +18,8 @@
 | Floor and ceil in sorted array               |          | ✅      |
 | First and last occurrence                    |          | ✅      |
 | Search in rotated sorted array - 1           |          | ✅      |
-| Search in rotated sorted array - 2           |          |        |
-| Find Minimum in Rotated Sorted Array         |          |        |
-| Find out how many times the array is rotated |          |        |
-| Single Element in sorted array               |          |        |
+| Search in rotated sorted array - 2           |          | ✅      |
+| Find Minimum in Rotated Sorted Array         |          | ✅      |
+| Find out how many times the array is rotated |          | ✅      |
+| Single Element in sorted array               |          | ✅      |
 
