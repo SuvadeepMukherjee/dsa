@@ -29,14 +29,14 @@
 
 ##### Basic Strings
 
-| Questions                                                    | Solution | Status |
-| ------------------------------------------------------------ | -------- | ------ |
-| [Reverse a. string](https://leetcode.com/problems/reverse-string/description/) |          |        |
-|                                                              |          |        |
-|                                                              |          |        |
-|                                                              |          |        |
-|                                                              |          |        |
-|                                                              |          |        |
-|                                                              |          |        |
-|                                                              |          |        |
+| Questions                                                    | Solution                                                     | Status |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------ |
+| [Reverse a. string](https://leetcode.com/problems/reverse-string/description/) | [Solution](https://github.com/SuvadeepMukherjee/dsa-to-do-sheet/blob/main/Beginner%20Problems/Basic%20Strings/reverse-string.js) | ✅      |
+|                                                              |                                                              |        |
+|                                                              |                                                              |        |
+|                                                              |                                                              |        |
+|                                                              |                                                              |        |
+|                                                              |                                                              |        |
+|                                                              |                                                              |        |
+|                                                              |                                                              |        |
 
