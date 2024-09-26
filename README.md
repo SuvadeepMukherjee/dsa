@@ -33,7 +33,7 @@
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------ |
 | [Reverse a. string](https://leetcode.com/problems/reverse-string/description/) | [Solution](https://github.com/SuvadeepMukherjee/dsa-to-do-sheet/blob/main/Beginner%20Problems/Basic%20Strings/reverse-string.js) | ✅      |
 | [Valid Palindrome](https://takeuforward.org/plus/data-structures-and-algorithm/beginner-problems/basic-strings/palindrome-check) | [Solution](https://github.com/SuvadeepMukherjee/dsa-to-do-sheet/blob/main/Beginner%20Problems/Basic%20Strings/palindrome-check.js) | ✅      |
-|                                                              |                                                              |        |
+| [Largest odd number in a string ](https://leetcode.com/problems/largest-odd-number-in-string/description/) | [Solution]()                                                 |        |
 |                                                              |                                                              |        |
 |                                                              |                                                              |        |
 |                                                              |                                                              |        |
