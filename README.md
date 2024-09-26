@@ -23,3 +23,20 @@
 | Find out how many times the array is rotated |          | ✅      |
 | Single Element in sorted array               |          | ✅      |
 
+------
+
+## Beginner Problems
+
+##### Basic Strings
+
+| Questions                                                    | Solution | Status |
+| ------------------------------------------------------------ | -------- | ------ |
+| [Reverse a. string](https://leetcode.com/problems/reverse-string/description/) |          |        |
+|                                                              |          |        |
+|                                                              |          |        |
+|                                                              |          |        |
+|                                                              |          |        |
+|                                                              |          |        |
+|                                                              |          |        |
+|                                                              |          |        |
+
