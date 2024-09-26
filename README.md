@@ -34,8 +34,8 @@
 | [Reverse a. string](https://leetcode.com/problems/reverse-string/description/) | [Solution](https://github.com/SuvadeepMukherjee/dsa-to-do-sheet/blob/main/Beginner%20Problems/Basic%20Strings/reverse-string.js) | ✅      |
 | [Valid Palindrome](https://takeuforward.org/plus/data-structures-and-algorithm/beginner-problems/basic-strings/palindrome-check) | [Solution](https://github.com/SuvadeepMukherjee/dsa-to-do-sheet/blob/main/Beginner%20Problems/Basic%20Strings/palindrome-check.js) | ✅      |
 | [Largest odd number in a string ](https://leetcode.com/problems/largest-odd-number-in-string/description/) | [Solution](https://github.com/SuvadeepMukherjee/dsa-to-do-sheet/blob/main/Beginner%20Problems/Basic%20Strings/largest-odd-number.js) | ✅      |
-| [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) | [Solution]()                                                 |        |
-|                                                              |                                                              |        |
+| [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) | [Solution](https://github.com/SuvadeepMukherjee/dsa-to-do-sheet/blob/main/Beginner%20Problems/Basic%20Strings/largest-common-prefix.js) | ✅      |
+| [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/) | [Solution]()                                                 | ✅      |
 |                                                              |                                                              |        |
 |                                                              |                                                              |        |
 |                                                              |                                                              |        |
