@@ -37,6 +37,15 @@
 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) | [Solution](https://github.com/SuvadeepMukherjee/dsa-to-do-sheet/blob/main/Beginner%20Problems/Basic%20Strings/largest-common-prefix.js) | ✅      |
 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/) | [Solution](https://github.com/SuvadeepMukherjee/dsa-to-do-sheet/blob/main/Beginner%20Problems/Basic%20Strings/isomorphic-strings.js) | ✅      |
 | [Rotate String](https://leetcode.com/problems/rotate-string/description/) | [Solution](https://github.com/SuvadeepMukherjee/dsa-to-do-sheet/blob/main/Beginner%20Problems/Basic%20Strings/rotate-sring.js) | ✅      |
-| [Valid anagram]()                                            | [Solution]()                                                 | ✅      |
-|                                                              |                                                              |        |
+| [Valid anagram](https://leetcode.com/problems/valid-anagram/description/) | [Solution](https://github.com/SuvadeepMukherjee/dsa-to-do-sheet/blob/main/Beginner%20Problems/Basic%20Strings/valid-anagram.js) | ✅      |
+| [Sort Charcters by frequency](https://leetcode.com/problems/sort-characters-by-frequency/description/) | [Solution]()                                                 | ✅      |
+
+##### Basic Arrays
+
+| Questions                            | Solution | Status |
+| ------------------------------------ | -------- | ------ |
+| [Sum of array elements]()            |          |        |
+| [Count of odd numbers in an array]() |          |        |
+| [Reverse an arrry]()                 |          |        |
+| [Check if the array is sorted]()     |          |        |
 
