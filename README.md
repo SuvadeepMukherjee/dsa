@@ -47,5 +47,5 @@
 | [Sum of array elements](https://takeuforward.org/plus/data-structures-and-algorithm/beginner-problems/basic-arrays/sum-of-array-elements) | [Solution](https://github.com/SuvadeepMukherjee/dsa-to-do-sheet/blob/main/Beginner%20Problems/Basic%20Arrays/sum-of-array-elements.js) | ✅ (Anki not needed) |
 | [Count of odd numbers in an array](https://takeuforward.org/plus/data-structures-and-algorithm/beginner-problems/basic-arrays/count-of-odd-numbers-in-array/submissions) | [Solution](https://github.com/SuvadeepMukherjee/dsa-to-do-sheet/blob/main/Beginner%20Problems/Basic%20Arrays/count-of-odd-numbers-in-an-array.js) | ✅ (Anki not needed) |
 | [Reverse an arrry](https://takeuforward.org/plus/data-structures-and-algorithm/beginner-problems/basic-arrays/reverse-an-array) | [Solution]()                                                 | ✅                   |
-| [Check if the array is sorted]()                             |                                                              |                     |
+| [Check if the array is sorted](https://takeuforward.org/plus/data-structures-and-algorithm/beginner-problems/basic-arrays/check-if-the-array-is-sorted) | [Solution]()                                                 |                     |
 
