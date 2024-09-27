@@ -54,7 +54,14 @@
 | [Fruits into baskets](https://leetcode.com/problems/fruit-into-baskets/description/) | [Solution](https://github.com/SuvadeepMukherjee/dsa-to-do-sheet/blob/main/Sliding%20Window/Longest%20Smallest%20window%20problems/fruits-into-baskets.js) | ✅      |
 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/description/) | [Solution](https://github.com/SuvadeepMukherjee/dsa-to-do-sheet/blob/main/Sliding%20Window/Longest%20Smallest%20window%20problems/longest-repeating-charcter-replacement.js) | ✅      |
 
-##### 
+##### Count the number of substrings containing all 3 characters
+
+| Questions                                             | Solutions    | Status |
+| ----------------------------------------------------- | ------------ | ------ |
+| [Number of substrings containing all 3 characters ]() | [Solution]() | ✅      |
+|                                                       |              |        |
+|                                                       |              |        |
+|                                                       |              |        |
 
 
 
