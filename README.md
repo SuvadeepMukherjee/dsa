@@ -36,7 +36,11 @@
 | [Max Sum subarray of size k](https://www.geeksforgeeks.org/problems/max-sum-subarray-of-size-k5313/1) | [Solution](https://github.com/SuvadeepMukherjee/dsa-to-do-sheet/blob/main/Sliding%20Window/Constant%20Window/max-sum-subarray-of-size-k.js) | ✅      |
 | [Maximum average subarray -1](https://leetcode.com/problems/maximum-average-subarray-i/) | [Solution](https://github.com/SuvadeepMukherjee/dsa-to-do-sheet/blob/main/Sliding%20Window/Constant%20Window/max-sum-subarray-of-size-k.js) | ✅      |
 
+##### Number of subararys
 
+| Questions                                                    | Solutions                                                    | Status |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------ |
+| [SubArray product Less than K ](https://leetcode.com/problems/subarray-product-less-than-k/description/) | [Solution](https://github.com/SuvadeepMukherjee/dsa-to-do-sheet/blob/main/Sliding%20Window/Number%20of%20subarrays/subarray-product-less-than-k.js) | ✅      |
 
 
 
