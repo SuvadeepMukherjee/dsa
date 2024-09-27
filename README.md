@@ -7,7 +7,7 @@
 | Questions                                                    | Solution                                                     | Status |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------ |
 | [Reverse a string](https://leetcode.com/problems/reverse-string/description/) | [Solution](https://github.com/SuvadeepMukherjee/dsa-to-do-sheet/blob/main/Beginner%20Problems/Basic%20Strings/reverse-string.js) | ✅      |
-| [Valid Palindrome](https://takeuforward.org/plus/data-structures-and-algorithm/beginner-problems/basic-strings/palindrome-check) | [Solution](https://github.com/SuvadeepMukherjee/dsa-to-do-sheet/blob/main/Beginner%20Problems/Basic%20Strings/palindrome-check.js) | ✅      |
+| [Palindrome Check](https://takeuforward.org/plus/data-structures-and-algorithm/beginner-problems/basic-strings/palindrome-check) | [Solution](https://github.com/SuvadeepMukherjee/dsa-to-do-sheet/blob/main/Beginner%20Problems/Basic%20Strings/palindrome-check.js) | ✅      |
 | [Largest odd number in a string ](https://leetcode.com/problems/largest-odd-number-in-string/description/) | [Solution](https://github.com/SuvadeepMukherjee/dsa-to-do-sheet/blob/main/Beginner%20Problems/Basic%20Strings/largest-odd-number.js) | ✅      |
 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/description/) | [Solution](https://github.com/SuvadeepMukherjee/dsa-to-do-sheet/blob/main/Beginner%20Problems/Basic%20Strings/largest-common-prefix.js) | ✅      |
 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/) | [Solution](https://github.com/SuvadeepMukherjee/dsa-to-do-sheet/blob/main/Beginner%20Problems/Basic%20Strings/isomorphic-strings.js) | ✅      |
@@ -73,5 +73,4 @@
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------ |
 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/) | [Solution](https://github.com/SuvadeepMukherjee/dsa-to-do-sheet/blob/main/Hashing/longest-consecutive-sequence.js) | ✅      |
 | [Longest Subarray with sum k](https://www.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=practice_card) | [Solution](https://github.com/SuvadeepMukherjee/dsa-to-do-sheet/blob/main/Hashing/longest-subarrry-with-sum-k.js) | ✅      |
-
 
