@@ -30,6 +30,4 @@
 
 [Hashing]()
 
----
-
-## Binary Search
+[Binary Search]()
