@@ -53,6 +53,7 @@
 | [Max Consecutive Ones 3](https://leetcode.com/problems/max-consecutive-ones-iii/description/) | [Solution](https://github.com/SuvadeepMukherjee/dsa-to-do-sheet/blob/main/Sliding%20Window/Longest%20Smallest%20window%20problems/max-consecutive-ones-3.js) | ✅      |
 | [Fruits into baskets](https://leetcode.com/problems/fruit-into-baskets/description/) | [Solution](https://github.com/SuvadeepMukherjee/dsa-to-do-sheet/blob/main/Sliding%20Window/Longest%20Smallest%20window%20problems/fruits-into-baskets.js) | ✅      |
 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/description/) | [Solution](https://github.com/SuvadeepMukherjee/dsa-to-do-sheet/blob/main/Sliding%20Window/Longest%20Smallest%20window%20problems/longest-repeating-charcter-replacement.js) | ✅      |
+| [Longest subarray with sum equals to k]()                    |                                                              |        |
 
 ##### Count the number of with Exact Constraint
 
@@ -63,8 +64,6 @@
 | [Subarray sum equals k](https://github.com/SuvadeepMukherjee/dsa-to-do-sheet/blob/main/Sliding%20Window/Count%20the%20Number%20of%20subarrays%20with%20exact%20constraint/subarray-sum-equals-k.js) | [Solution](https://github.com/SuvadeepMukherjee/dsa-to-do-sheet/blob/main/Sliding%20Window/Count%20the%20Number%20of%20subarrays%20with%20exact%20constraint/subarray-sum-equals-k.js) | ✅      |
 | [Number of nice subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays/description/) | [Solution](https://github.com/SuvadeepMukherjee/dsa-to-do-sheet/blob/main/Sliding%20Window/Count%20the%20Number%20of%20subarrays%20with%20exact%20constraint/number-of-nice-subarrays.js) | ✅      |
 | [Count Subarrays with given xor](https://takeuforward.org/plus/data-structures-and-algorithm/hashing/faqs/count-subarrays-with-given-xor-k) | [Solution]()                                                 | ✅      |
-
-
 
 
 
