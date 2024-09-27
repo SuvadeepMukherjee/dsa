@@ -13,7 +13,7 @@
 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/description/) | [Solution](https://github.com/SuvadeepMukherjee/dsa-to-do-sheet/blob/main/Beginner%20Problems/Basic%20Strings/isomorphic-strings.js) | ✅      |
 | [Rotate String](https://leetcode.com/problems/rotate-string/description/) | [Solution](https://github.com/SuvadeepMukherjee/dsa-to-do-sheet/blob/main/Beginner%20Problems/Basic%20Strings/rotate-sring.js) | ✅      |
 | [Valid anagram](https://leetcode.com/problems/valid-anagram/description/) | [Solution](https://github.com/SuvadeepMukherjee/dsa-to-do-sheet/blob/main/Beginner%20Problems/Basic%20Strings/valid-anagram.js) | ✅      |
-| [Sort Charcters by frequency](https://leetcode.com/problems/sort-characters-by-frequency/description/) | [Solution]()                                                 | ✅      |
+| [Sort Charcters by frequency](https://leetcode.com/problems/sort-characters-by-frequency/description/) | [Solution](https://github.com/SuvadeepMukherjee/dsa-to-do-sheet/blob/main/Beginner%20Problems/Basic%20Strings/sort-charcters-by-frequency.js) | ✅      |
 
 ##### Basic Arrays
 
