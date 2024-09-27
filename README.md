@@ -32,7 +32,7 @@
 
 | Questions                                                    | Solution                                                     | Status |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------ |
-| [Maximum points you can obtain from cards]()                 |                                                              |        |
+| [Maximum points you can obtain from cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/description/) | [Solution]()                                                 |        |
 | [Max Sum subarray of size k](https://www.geeksforgeeks.org/problems/max-sum-subarray-of-size-k5313/1) | [Solution](https://github.com/SuvadeepMukherjee/dsa-to-do-sheet/blob/main/Sliding%20Window/Constant%20Window/max-sum-subarray-of-size-k.js) | ✅      |
 | [Maximum average subarray -1]()                              |                                                              |        |
 
