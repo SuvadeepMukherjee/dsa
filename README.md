@@ -56,12 +56,12 @@
 
 ##### Count the number of substrings containing all 3 characters
 
-| Questions                                             | Solutions    | Status |
-| ----------------------------------------------------- | ------------ | ------ |
-| [Number of substrings containing all 3 characters ]() | [Solution]() | ✅      |
-|                                                       |              |        |
-|                                                       |              |        |
-|                                                       |              |        |
+| Questions                                                    | Solutions                                                    | Status |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------ |
+| [Number of substrings containing all 3 characters ]()        | [Solution]()                                                 | ✅      |
+| [Binary Subarray with sum](https://leetcode.com/problems/binary-subarrays-with-sum/description/) | [Solution](https://github.com/SuvadeepMukherjee/dsa-to-do-sheet/blob/main/Sliding%20Window/Count%20the%20Number%20of%20subarrays%20with%20exact%20constraint/binary-subarrays-with-sum.js) | ✅      |
+| [Subarray sum equals k](https://github.com/SuvadeepMukherjee/dsa-to-do-sheet/blob/main/Sliding%20Window/Count%20the%20Number%20of%20subarrays%20with%20exact%20constraint/subarray-sum-equals-k.js) | [Solution](https://github.com/SuvadeepMukherjee/dsa-to-do-sheet/blob/main/Sliding%20Window/Count%20the%20Number%20of%20subarrays%20with%20exact%20constraint/subarray-sum-equals-k.js) | ✅      |
+| [Number of nice subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays/description/) | [Solution](https://github.com/SuvadeepMukherjee/dsa-to-do-sheet/blob/main/Sliding%20Window/Count%20the%20Number%20of%20subarrays%20with%20exact%20constraint/number-of-nice-subarrays.js) | ✅      |
 
 
 
