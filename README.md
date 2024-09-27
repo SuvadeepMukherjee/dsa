@@ -54,7 +54,7 @@
 | [Fruits into baskets](https://leetcode.com/problems/fruit-into-baskets/description/) | [Solution](https://github.com/SuvadeepMukherjee/dsa-to-do-sheet/blob/main/Sliding%20Window/Longest%20Smallest%20window%20problems/fruits-into-baskets.js) | ✅      |
 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/description/) | [Solution](https://github.com/SuvadeepMukherjee/dsa-to-do-sheet/blob/main/Sliding%20Window/Longest%20Smallest%20window%20problems/longest-repeating-charcter-replacement.js) | ✅      |
 
-##### Count the number of substrings containing all 3 characters
+##### Count the number of with Exact Constraint
 
 | Questions                                                    | Solutions                                                    | Status |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------ |
@@ -62,6 +62,7 @@
 | [Binary Subarray with sum](https://leetcode.com/problems/binary-subarrays-with-sum/description/) | [Solution](https://github.com/SuvadeepMukherjee/dsa-to-do-sheet/blob/main/Sliding%20Window/Count%20the%20Number%20of%20subarrays%20with%20exact%20constraint/binary-subarrays-with-sum.js) | ✅      |
 | [Subarray sum equals k](https://github.com/SuvadeepMukherjee/dsa-to-do-sheet/blob/main/Sliding%20Window/Count%20the%20Number%20of%20subarrays%20with%20exact%20constraint/subarray-sum-equals-k.js) | [Solution](https://github.com/SuvadeepMukherjee/dsa-to-do-sheet/blob/main/Sliding%20Window/Count%20the%20Number%20of%20subarrays%20with%20exact%20constraint/subarray-sum-equals-k.js) | ✅      |
 | [Number of nice subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays/description/) | [Solution](https://github.com/SuvadeepMukherjee/dsa-to-do-sheet/blob/main/Sliding%20Window/Count%20the%20Number%20of%20subarrays%20with%20exact%20constraint/number-of-nice-subarrays.js) | ✅      |
+| [Count Subarrays with given xor](https://takeuforward.org/plus/data-structures-and-algorithm/hashing/faqs/count-subarrays-with-given-xor-k) | [Solution]()                                                 | ✅      |
 
 
 
