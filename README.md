@@ -42,7 +42,17 @@
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------ |
 | [SubArray product Less than K ](https://leetcode.com/problems/subarray-product-less-than-k/description/) | [Solution](https://github.com/SuvadeepMukherjee/dsa-to-do-sheet/blob/main/Sliding%20Window/Number%20of%20subarrays/subarray-product-less-than-k.js) | ✅      |
 
+##### Longest-Smallest Window Problems
 
+| Questions                                                    | Solutions                                                    | Status |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------ |
+| [Binary String Flip](https://github.com/SuvadeepMukherjee/dsa-to-do-sheet/blob/main/Sliding%20Window/Longest%20Smallest%20window%20problems/binary-string-flip.md) | [Solution](https://github.com/SuvadeepMukherjee/dsa-to-do-sheet/blob/main/Sliding%20Window/Longest%20Smallest%20window%20problems/binary-string-flip.md) | ✅      |
+| [Length of longest subarray whose sum is less than or equal to k ](https://github.com/SuvadeepMukherjee/dsa-to-do-sheet/blob/main/Sliding%20Window/Longest%20Smallest%20window%20problems/length-of-largest-subarray-whose-sum-is-less-than-or-equal-to-k.md) | [Solution](https://github.com/SuvadeepMukherjee/dsa-to-do-sheet/blob/main/Sliding%20Window/Longest%20Smallest%20window%20problems/length-of-largest-subarray-whose-sum-is-less-than-or-equal-to-k.md) | ✅      |
+| [Longest Substring with atmost k distinct characters ](https://takeuforward.org/plus/data-structures-and-algorithm/sliding-window-and-2-pointer/longest-and-smallest-window-problems/longest-substring-with-at-most-k-distinct-characters) | [Solution](https://github.com/SuvadeepMukherjee/dsa-to-do-sheet/blob/main/Sliding%20Window/Longest%20Smallest%20window%20problems/longest-substring-with-atmost-k-characters.js) | ✅      |
+| [Longest Substring without repeating charcters](https://takeuforward.org/plus/data-structures-and-algorithm/sliding-window-and-2-pointer/longest-and-smallest-window-problems/longest-substring-without-repeating-characters) | [Solution]()                                                 | ✅      |
+|                                                              |                                                              |        |
+|                                                              |                                                              |        |
+|                                                              |                                                              |        |
 
 
 
