@@ -6,14 +6,14 @@
 
 | Questions                      | Status |
 | ------------------------------ | ------ |
-| Reverse a string               |        |
-| Palindome check                |        |
-| Largest odd number in a string |        |
-| Longest common prefix          |        |
-| isomorphic string              |        |
-| rotate string                  |        |
-| valid anagram                  |        |
-| sort characters by frequency   |        |
+| Reverse a string               | ✅      |
+| Palindome check                | ✅      |
+| Largest odd number in a string | ✅      |
+| Longest common prefix          | ✅      |
+| isomorphic string              | ✅      |
+| rotate string                  | ✅      |
+| valid anagram                  | ✅      |
+| sort characters by frequency   | ✅      |
 
 ##### Basic Hashing
 
@@ -27,10 +27,10 @@
 
 | Questions                     | Status |
 | ----------------------------- | ------ |
-| Sum of array elements         |        |
-| count of odd numbers in array |        |
-| Reverse an array              |        |
-| Check if the array is sorted  |        |
+| Sum of array elements         | ✅      |
+| count of odd numbers in array | ✅      |
+| Reverse an array              | ✅      |
+| Check if the array is sorted  | ✅      |
 
 ------
 

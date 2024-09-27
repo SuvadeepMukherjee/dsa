@@ -17,12 +17,48 @@
 
 ##### Basic Arrays
 
-| Questions                                                    | Solution                                                     | Status              |
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------- |
-| [Sum of array elements](https://takeuforward.org/plus/data-structures-and-algorithm/beginner-problems/basic-arrays/sum-of-array-elements) | [Solution](https://github.com/SuvadeepMukherjee/dsa-to-do-sheet/blob/main/Beginner%20Problems/Basic%20Arrays/sum-of-array-elements.js) | ✅ (Anki not needed) |
-| [Count of odd numbers in an array](https://takeuforward.org/plus/data-structures-and-algorithm/beginner-problems/basic-arrays/count-of-odd-numbers-in-array/submissions) | [Solution](https://github.com/SuvadeepMukherjee/dsa-to-do-sheet/blob/main/Beginner%20Problems/Basic%20Arrays/count-of-odd-numbers-in-an-array.js) | ✅ (Anki not needed) |
-| [Reverse an arrry](https://takeuforward.org/plus/data-structures-and-algorithm/beginner-problems/basic-arrays/reverse-an-array) | [Solution]()                                                 | ✅                   |
-| [Check if the array is sorted](https://takeuforward.org/plus/data-structures-and-algorithm/beginner-problems/basic-arrays/check-if-the-array-is-sorted) | [Solution](https://github.com/SuvadeepMukherjee/dsa-to-do-sheet/blob/main/Beginner%20Problems/Basic%20Arrays/check-if-array-is-sorted.js) | ✅                   |
+| Questions                                                    | Solution                                                     | Status |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------ |
+| [Sum of array elements](https://takeuforward.org/plus/data-structures-and-algorithm/beginner-problems/basic-arrays/sum-of-array-elements) | [Solution](https://github.com/SuvadeepMukherjee/dsa-to-do-sheet/blob/main/Beginner%20Problems/Basic%20Arrays/sum-of-array-elements.js) | ✅      |
+| [Count of odd numbers in an array](https://takeuforward.org/plus/data-structures-and-algorithm/beginner-problems/basic-arrays/count-of-odd-numbers-in-array/submissions) | [Solution](https://github.com/SuvadeepMukherjee/dsa-to-do-sheet/blob/main/Beginner%20Problems/Basic%20Arrays/count-of-odd-numbers-in-an-array.js) | ✅      |
+| [Reverse an arrry](https://takeuforward.org/plus/data-structures-and-algorithm/beginner-problems/basic-arrays/reverse-an-array) | [Solution]()                                                 | ✅      |
+| [Check if the array is sorted](https://takeuforward.org/plus/data-structures-and-algorithm/beginner-problems/basic-arrays/check-if-the-array-is-sorted) | [Solution](https://github.com/SuvadeepMukherjee/dsa-to-do-sheet/blob/main/Beginner%20Problems/Basic%20Arrays/check-if-array-is-sorted.js) | ✅      |
+
+------
+
+## Sliding Window
+
+##### Constant Window
+
+| Questions                                                    | Solution | Status |
+| ------------------------------------------------------------ | -------- | ------ |
+| [Maximum points you can obtain from cards]()                 |          |        |
+| [Find the sum of subarary with the largest sum whose length is k]() |          |        |
+| [Maximum average subarray -1]()                              |          |        |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
