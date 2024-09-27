@@ -52,11 +52,9 @@
 | [Longest Substring without repeating charcters](https://takeuforward.org/plus/data-structures-and-algorithm/sliding-window-and-2-pointer/longest-and-smallest-window-problems/longest-substring-without-repeating-characters) | [Solution]()                                                 | ✅      |
 | [Max Consecutive Ones 3](https://leetcode.com/problems/max-consecutive-ones-iii/description/) | [Solution](https://github.com/SuvadeepMukherjee/dsa-to-do-sheet/blob/main/Sliding%20Window/Longest%20Smallest%20window%20problems/max-consecutive-ones-3.js) | ✅      |
 | [Fruits into baskets](https://leetcode.com/problems/fruit-into-baskets/description/) | [Solution](https://github.com/SuvadeepMukherjee/dsa-to-do-sheet/blob/main/Sliding%20Window/Longest%20Smallest%20window%20problems/fruits-into-baskets.js) | ✅      |
-| [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/description/) | [Solution]()                                                 |        |
+| [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/description/) | [Solution](https://github.com/SuvadeepMukherjee/dsa-to-do-sheet/blob/main/Sliding%20Window/Longest%20Smallest%20window%20problems/longest-repeating-charcter-replacement.js) | ✅      |
 
-
-
-
+##### 
 
 
 
