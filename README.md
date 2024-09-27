@@ -30,11 +30,11 @@
 
 ##### Constant Window
 
-| Questions                                                    | Solution | Status |
-| ------------------------------------------------------------ | -------- | ------ |
-| [Maximum points you can obtain from cards]()                 |          |        |
-| [Find the sum of subarary with the largest sum whose length is k]() |          |        |
-| [Maximum average subarray -1]()                              |          |        |
+| Questions                                    | Solution | Status |
+| -------------------------------------------- | -------- | ------ |
+| [Maximum points you can obtain from cards]() |          |        |
+| [Max Sum subarray of size k]()               |          |        |
+| [Maximum average subarray -1]()              |          |        |
 
 
 
