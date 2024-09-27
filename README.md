@@ -65,6 +65,8 @@
 | [Number of nice subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays/description/) | [Solution](https://github.com/SuvadeepMukherjee/dsa-to-do-sheet/blob/main/Sliding%20Window/Count%20the%20Number%20of%20subarrays%20with%20exact%20constraint/number-of-nice-subarrays.js) | ✅      |
 | [Count Subarrays with given xor](https://takeuforward.org/plus/data-structures-and-algorithm/hashing/faqs/count-subarrays-with-given-xor-k) | [Solution]()                                                 | ✅      |
 
+------
+
 ## Hashing 
 
 | Questions                                                    | Solutions                                                    | Status |
@@ -73,15 +75,3 @@
 | [Longest Subarray with sum k](https://www.geeksforgeeks.org/problems/longest-sub-array-with-sum-k0809/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=practice_card) | [Solution](https://github.com/SuvadeepMukherjee/dsa-to-do-sheet/blob/main/Hashing/longest-subarrry-with-sum-k.js) | ✅      |
 
 
-
-
-
-
-
-
-
-
-
-
-
-#### 
