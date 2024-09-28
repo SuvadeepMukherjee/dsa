@@ -13,8 +13,8 @@
 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) | [Link](https://github.com/SuvadeepMukherjee/dsa-to-do-sheet/blob/main/Binary%20Search/Logic%20Building/search-insert-position.js) | ✅      |
 | [Floor and ceil in sorted array](https://takeuforward.org/plus/data-structures-and-algorithm/binary-search/logic-building/floor-and-ceil-in-sorted-array) | [Link](https://github.com/SuvadeepMukherjee/dsa-to-do-sheet/blob/main/Binary%20Search/Logic%20Building/floor-and-ceil-in-sorted-array.js) | ✅      |
 | [First and last occurrance](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/) | [Link](https://github.com/SuvadeepMukherjee/dsa-to-do-sheet/blob/main/Binary%20Search/Logic%20Building/first-and-last-occurrance.js) | ✅      |
-| [Search in rotated sorted array - 1](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) | [Link]()                                                     |        |
-| Search in rotated sorted array -2                            |                                                              |        |
+| [Search in rotated sorted array - 1](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) | [Link](https://github.com/SuvadeepMukherjee/dsa-to-do-sheet/blob/main/Binary%20Search/Logic%20Building/search-in-rotated-sorted-array-1.js) | ✅      |
+| [Search in rotated sorted array -2](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/) | [Link]()                                                     | ✅      |
 | Find minimum in rotated sorted array                         |                                                              |        |
 | Find out how many times the array is rotated                 |                                                              |        |
 | Single Element in sorted array                               |                                                              |        |
