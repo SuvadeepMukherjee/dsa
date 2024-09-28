@@ -16,6 +16,6 @@
 | [Search in rotated sorted array - 1](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) | [Link](https://github.com/SuvadeepMukherjee/dsa-to-do-sheet/blob/main/Binary%20Search/Logic%20Building/search-in-rotated-sorted-array-1.js) | ✅      |
 | [Search in rotated sorted array -2](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/) | [Link](https://github.com/SuvadeepMukherjee/dsa-to-do-sheet/blob/main/Binary%20Search/Logic%20Building/search-in-roated-sorted-array-2.js) | ✅      |
 | [Find minimum in rotated sorted array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/) | [Link](https://github.com/SuvadeepMukherjee/dsa-to-do-sheet/blob/main/Binary%20Search/Logic%20Building/minimum-in-rotated-sorted-array.js) | ✅      |
-| Find out how many times the array is rotated                 |                                                              |        |
+| [Find out how many times the array is rotated]()             | [Link]()                                                     | ✅      |
 | Single Element in sorted array                               |                                                              |        |
 
