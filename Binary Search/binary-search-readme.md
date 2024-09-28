@@ -8,14 +8,14 @@
 
 ##### Logic Building 
 
-| Questions                                                    | Solutions | Status |
-| ------------------------------------------------------------ | --------- | ------ |
-| [Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) |           |        |
-| Floor and ceil in sorted array                               |           |        |
-| First and last occurrance                                    |           |        |
-| Search in rotated sorted array - 1                           |           |        |
-| Search in rotated sorted array -2                            |           |        |
-| Find minimum in rotated sorted array                         |           |        |
-| Find out how many times the array is rotated                 |           |        |
-| Single Element in sorted array                               |           |        |
+| Questions                                                    | Solutions                                                    | Status |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------ |
+| [Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) | [Link](https://github.com/SuvadeepMukherjee/dsa-to-do-sheet/blob/main/Binary%20Search/Logic%20Building/search-insert-position.js) | ✅      |
+| Floor and ceil in sorted array                               |                                                              |        |
+| First and last occurrance                                    |                                                              |        |
+| Search in rotated sorted array - 1                           |                                                              |        |
+| Search in rotated sorted array -2                            |                                                              |        |
+| Find minimum in rotated sorted array                         |                                                              |        |
+| Find out how many times the array is rotated                 |                                                              |        |
+| Single Element in sorted array                               |                                                              |        |
 
