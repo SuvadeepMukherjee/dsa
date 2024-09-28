@@ -26,6 +26,7 @@
 | [Fruits into baskets](https://leetcode.com/problems/fruit-into-baskets/description/)                                                                                                                                                                          | [Solution](https://github.com/SuvadeepMukherjee/dsa-to-do-sheet/blob/main/Sliding%20Window/Longest%20Smallest%20window%20problems/fruits-into-baskets.js)                                             | ✅     |
 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/description/)                                                                                                                                 | [Solution](https://github.com/SuvadeepMukherjee/dsa-to-do-sheet/blob/main/Sliding%20Window/Longest%20Smallest%20window%20problems/longest-repeating-charcter-replacement.js)                          | ✅     |
 | [Longest subarray with sum equals to k]()                                                                                                                                                                                                                     |                                                                                                                                                                                                       |        |
+| [Maximum Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/description/) | [Solution]() | ✅ |
 
 ##### Count the number of with Exact Constraint
 
