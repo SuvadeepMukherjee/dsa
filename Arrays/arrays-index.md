@@ -13,11 +13,11 @@
 
 ##### Logic Building
 
-| Questions                                                    | Solution | Status | Anki Needed |
-| ------------------------------------------------------------ | -------- | ------ | ----------- |
-| [Move Zeroes to end](https://leetcode.com/problems/move-zeroes/description/) |          |        |             |
-| [Remove duplicates from sorted array]()                      |          |        |             |
-| [Find missing number]()                                      |          |        |             |
-| [Union of 2 sorted arrays]()                                 |          |        |             |
-| [Intersection of 2 sorted arrays]()                          |          |        |             |
+| Questions                                                    | Solution                                                     | Status | Anki Needed |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------ | ----------- |
+| [Move Zeroes to end](https://leetcode.com/problems/move-zeroes/description/) | [Link](https://github.com/SuvadeepMukherjee/dsa-to-do-sheet/blob/main/Arrays/arrays-index.md) | ✅      | Yes         |
+| [Remove duplicates from sorted array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [Link]()                                                     | ✅      | Yes         |
+| [Find missing number]()                                      |                                                              |        |             |
+| [Union of 2 sorted arrays]()                                 |                                                              |        |             |
+| [Intersection of 2 sorted arrays]()                          |                                                              |        |             |
 
