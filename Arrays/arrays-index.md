@@ -5,7 +5,7 @@
 | Question                                                     | Solution                                                     | Status | Anki needed |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------ | ----------- |
 | [Linear Search](https://takeuforward.org/plus/data-structures-and-algorithm/arrays/fundamentals/linear-search/submissions) | [Link](https://github.com/SuvadeepMukherjee/dsa-to-do-sheet/blob/main/Arrays/Fundamentals/linear-search.js) | ✅      | No          |
-| [Largest Element](https://www.geeksforgeeks.org/problems/largest-element-in-array4009/0?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=largest-element-in-array) | [Link]()                                                     | ✅      | Yes         |
+| [Largest Element](https://www.geeksforgeeks.org/problems/largest-element-in-array4009/0?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=largest-element-in-array) | [Link](https://github.com/SuvadeepMukherjee/dsa-to-do-sheet/blob/main/Arrays/Fundamentals/largest-element.js) | ✅      | Yes         |
 | [Second Largest Element](https://www.geeksforgeeks.org/problems/second-largest3735/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=second-largest) | [Link]()                                                     | ✅      | Yes         |
 | Maximum Consecutive 1s                                       |                                                              | ◻️      |             |
 | Left Rotate array by one                                     |                                                              | ◻️      |             |
