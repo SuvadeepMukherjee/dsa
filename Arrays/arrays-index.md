@@ -8,6 +8,6 @@
 | [Largest Element](https://www.geeksforgeeks.org/problems/largest-element-in-array4009/0?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=largest-element-in-array) | [Link](https://github.com/SuvadeepMukherjee/dsa-to-do-sheet/blob/main/Arrays/Fundamentals/largest-element.js) | ✅      | Yes         |
 | [Second Largest Element](https://www.geeksforgeeks.org/problems/second-largest3735/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=second-largest) | [Link](https://github.com/SuvadeepMukherjee/dsa-to-do-sheet/blob/main/Arrays/Fundamentals/second-largest.js) | ✅      | Yes         |
 | Maximum Consecutive 1s                                       | moved to sliding window                                      | ✅      |             |
-| [Left Rotate array by one](https://takeuforward.org/plus/data-structures-and-algorithm/arrays/fundamentals/left-rotate-array-by-one/submissions) |                                                              | ◻️      |             |
-| Left Rotate array by k places                                |                                                              | ◻️      |             |
+| [Left Rotate array by one](https://takeuforward.org/plus/data-structures-and-algorithm/arrays/fundamentals/left-rotate-array-by-one/submissions) | [Link]()                                                     | ◻️      |             |
+| [Left Rotate array by k places]()                            | [Link]()                                                     | ◻️      |             |
 
