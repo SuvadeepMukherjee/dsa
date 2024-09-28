@@ -11,7 +11,7 @@
 | Questions                                                    | Solutions                                                    | Status |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------ |
 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) | [Link](https://github.com/SuvadeepMukherjee/dsa-to-do-sheet/blob/main/Binary%20Search/Logic%20Building/search-insert-position.js) | ✅      |
-| Floor and ceil in sorted array                               |                                                              |        |
+| [Floor and ceil in sorted array](https://takeuforward.org/plus/data-structures-and-algorithm/binary-search/logic-building/floor-and-ceil-in-sorted-array) | [Link]()                                                     |        |
 | First and last occurrance                                    |                                                              |        |
 | Search in rotated sorted array - 1                           |                                                              |        |
 | Search in rotated sorted array -2                            |                                                              |        |
