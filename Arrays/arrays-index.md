@@ -23,16 +23,16 @@
 
 ##### FAQs(Medium)
 
-| Questions                         | Solution | Status | Anki Needed |
-| --------------------------------- | -------- | ------ | ----------- |
-| [Leaders in an array]()           | [Link]   | ✅      | Yes         |
-| Print the matrix in spiral manner |          |        |             |
-| Rearrange array elements by sign  |          |        |             |
-| Pascals Triangle                  |          |        |             |
-| Rotate matrix by 90 degrees       |          |        |             |
-| Two Sum                           |          |        |             |
-| 3 Sum                             |          |        |             |
-| 4 Sum                             |          |        |             |
-| Sort an array of 0s,1s and 2s     |          |        |             |
-| Kadanes Algorithm                 |          |        |             |
+| Questions                         | Solution                                                     | Status | Anki Needed |
+| --------------------------------- | ------------------------------------------------------------ | ------ | ----------- |
+| [Leaders in an array]()           | [Link](https://github.com/SuvadeepMukherjee/dsa-to-do-sheet/blob/main/Arrays/FAQs%20Medium/leaders-in-an-array.js) | ✅      | Yes         |
+| Print the matrix in spiral manner |                                                              |        |             |
+| Rearrange array elements by sign  |                                                              |        |             |
+| Pascals Triangle                  |                                                              |        |             |
+| Rotate matrix by 90 degrees       |                                                              |        |             |
+| Two Sum                           |                                                              |        |             |
+| 3 Sum                             |                                                              |        |             |
+| 4 Sum                             |                                                              |        |             |
+| Sort an array of 0s,1s and 2s     |                                                              |        |             |
+| Kadanes Algorithm                 |                                                              |        |             |
 
