@@ -25,7 +25,7 @@
 
 | Questions                         | Solution | Status | Anki Needed |
 | --------------------------------- | -------- | ------ | ----------- |
-| Leaders in an array               |          |        |             |
+| [Leaders in an array]()           | [Link]   | ✅      | Yes         |
 | Print the matrix in spiral manner |          |        |             |
 | Rearrange array elements by sign  |          |        |             |
 | Pascals Triangle                  |          |        |             |
