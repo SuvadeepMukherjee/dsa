@@ -30,7 +30,7 @@
 | [Rearrange array elements by sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/description/) | [Link](https://github.com/SuvadeepMukherjee/dsa-to-do-sheet/blob/main/Arrays/FAQs%20Medium/rearrange-array-elements-by-sign.js) | ✅      | Yes         |
 | Pascals Triangle                                             |                                                              |        |             |
 | Rotate matrix by 90 degrees                                  |                                                              |        |             |
-| Two Sum                                                      |                                                              |        |             |
+| [Two Sum]()                                                  | [Link]()                                                     | ✅      | Yes         |
 | 3 Sum                                                        |                                                              |        |             |
 | 4 Sum                                                        |                                                              |        |             |
 | Sort an array of 0s,1s and 2s                                |                                                              |        |             |
