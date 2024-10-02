@@ -1,9 +1,9 @@
 var missingNumber = function (nums) {
-  const numSet = new Set(nums);
-  const n = nums.length + 1;
-  for (let number = 0; number < n; number++) {
-    if (!numSet.has(number)) {
-      return number;
-    }
+  let n = nums.length;
+  let actualSum = (n * (n + 1)) / 2;
+  let sum = 0;
+  for (let i = 0; i < nums.length; i++) {
+    sum += nums[i];
   }
+  return actualSum - sum;
 };
