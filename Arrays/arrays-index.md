@@ -31,9 +31,9 @@
 | Pascals Triangle                                             |                                                              |        |             |
 | Rotate matrix by 90 degrees                                  |                                                              |        |             |
 | [Two Sum]()                                                  | [Link](https://github.com/SuvadeepMukherjee/dsa-to-do-sheet/blob/main/Arrays/FAQs%20Medium/2-sum.js) | ✅      | Yes         |
-| [3 Sum]()                                                    | [Link]()                                                     | ◻️      | Yes         |
-| 4 Sum                                                        |                                                              |        |             |
-| Sort an array of 0s,1s and 2s                                |                                                              |        |             |
+| [3 Sum](https://leetcode.com/problems/3sum/description/)     | [Link]()                                                     | ✅      | Yes         |
+| [4 Sum](https://leetcode.com/problems/4sum/submissions/1409286412/) | [Link](https://github.com/SuvadeepMukherjee/dsa-to-do-sheet/blob/main/Arrays/FAQs%20Medium/4-sum.js) | ✅      |             |
+| [Sort an array of 0s,1s and 2s](https://www.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=practice_card) | [Link]()                                                     | ✅      |             |
 | Kadanes Algorithm                                            |                                                              |        |             |
 
 
