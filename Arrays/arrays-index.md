@@ -25,7 +25,7 @@
 
 | Questions                                                    | Solution                                                     | Status | Anki Needed |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------ | ----------- |
-| [Leaders in an array]()                                      | [Link](https://github.com/SuvadeepMukherjee/dsa-to-do-sheet/blob/main/Arrays/FAQs%20Medium/leaders-in-an-array.js) | ✅      | Yes         |
+| [Leaders in an array](https://www.geeksforgeeks.org/problems/leaders-in-an-array-1587115620/1) | [Link](https://github.com/SuvadeepMukherjee/dsa-to-do-sheet/blob/main/Arrays/FAQs%20Medium/leaders-in-an-array.js) | ✅      | Yes         |
 | [Print the matrix in spiral manner](https://leetcode.com/problems/spiral-matrix/description/) | [Link](https://github.com/SuvadeepMukherjee/dsa-to-do-sheet/blob/main/Arrays/FAQs%20Medium/spiral-matrix.js) | ✅      | Yes         |
 | [Rearrange array elements by sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/description/) | [Link](https://github.com/SuvadeepMukherjee/dsa-to-do-sheet/blob/main/Arrays/FAQs%20Medium/rearrange-array-elements-by-sign.js) | ✅      | Yes         |
 | Pascals Triangle                                             |                                                              |        |             |
