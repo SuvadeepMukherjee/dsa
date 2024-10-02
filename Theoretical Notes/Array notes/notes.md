@@ -1,6 +1,6 @@
 ## Array Notes
 
-#### Q:Write a function that reverses the first k elements of the array ? 
+#### Q1:Write a function that reverses the first k elements of the array ? 
 
 **Solution**:
 
@@ -34,3 +34,6 @@ reverse(nums, 0, 2);
 console.log(nums);
 ```
 
+#### Q2:Create an array of length say 7 filled with 0 
+
+**Answer**: `const arr = Array(length:7).fill(0)` 
