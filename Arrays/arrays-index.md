@@ -18,7 +18,7 @@
 | [Move Zeroes to end](https://leetcode.com/problems/move-zeroes/description/) | [Link](https://github.com/SuvadeepMukherjee/dsa-to-do-sheet/blob/main/Arrays/arrays-index.md) | ✅      | Yes         |
 | [Remove duplicates from sorted array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) | [Link](https://github.com/SuvadeepMukherjee/dsa-to-do-sheet/blob/main/Arrays/Logic%20Building/remove-duplicates-from-sorted-array.js) | ✅      | Yes         |
 | [Find missing number](https://leetcode.com/problems/missing-number/description/) | [Link](https://github.com/SuvadeepMukherjee/dsa-to-do-sheet/blob/main/Arrays/Logic%20Building/find-missing-number.js) | ✅      | Yes         |
-| [Union of 2 sorted arrays]()                                 |                                                              |        |             |
+| [Union of 2 sorted arrays](https://www.geeksforgeeks.org/problems/union-of-two-sorted-arrays-1587115621/1) | [Link]()                                                     | ✅      | Yes         |
 | [Intersection of 2 sorted arrays]()                          |                                                              |        |             |
 
 ##### FAQs(Medium)
