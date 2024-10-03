@@ -37,3 +37,7 @@ console.log(nums);
 #### Q2:Create an array of length say 7 filled with 0 
 
 **Answer**: `const arr = Array(length:7).fill(0)` 
+
+#### Q3: Given an matrix how is a individual cell identified ? 
+
+**Answer**: An individual matrix is identified by `matrix[row][column]`

@@ -1,8 +1,6 @@
 var spiralOrder = function (matrix) {
   let ans = [];
-
   let n = matrix.length;
-
   let m = matrix[0].length;
   let top = 0;
   let left = 0;
@@ -16,13 +14,11 @@ var spiralOrder = function (matrix) {
       ans.push(matrix[top][i]);
     }
     top++;
-
     // Traverse from top to bottom
     for (let i = top; i <= bottom; i++) {
       ans.push(matrix[i][right]);
     }
     right--;
-
     // Traverse from right to left
     if (top <= bottom) {
       for (let i = right; i >= left; i--) {
@@ -30,7 +26,6 @@ var spiralOrder = function (matrix) {
       }
       bottom--;
     }
-
     // Traverse from bottom to top
     if (left <= right) {
       for (let i = bottom; i >= top; i--) {
