@@ -41,3 +41,4 @@ console.log(nums);
 #### Q3: Given an matrix how is a individual cell identified ? 
 
 **Answer**: An individual matrix is identified by `matrix[row][column]`
+
