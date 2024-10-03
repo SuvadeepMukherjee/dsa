@@ -1,17 +1,13 @@
 var spiralOrder = function (matrix) {
   let ans = [];
 
-  // Number of rows
   let n = matrix.length;
 
-  // Number of columns
   let m = matrix[0].length;
-
-  // Initialize pointers for traversal
-  let top = 0,
-    left = 0;
-  let bottom = n - 1,
-    right = m - 1;
+  let top = 0;
+  let left = 0;
+  let bottom = n - 1;
+  let right = m - 1;
 
   // Traverse the matrix in spiral order
   while (top <= bottom && left <= right) {
@@ -44,6 +40,5 @@ var spiralOrder = function (matrix) {
     }
   }
 
-  //Return the ans
   return ans;
 };
