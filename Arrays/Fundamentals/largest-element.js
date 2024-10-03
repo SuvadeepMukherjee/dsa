@@ -1,12 +1,12 @@
 class Solution {
   /**
-    * @param number[] arr
+  * @param number[] arr
 
-    * @returns number
-    */
+  * @returns number
+  */
   largest(arr) {
     // code here
-    let largest = -Infinity;
+    let largest = arr[0];
     for (let i = 0; i < arr.length; i++) {
       if (arr[i] > largest) {
         largest = arr[i];
