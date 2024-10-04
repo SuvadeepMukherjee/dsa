@@ -42,3 +42,6 @@ console.log(nums);
 
 **Answer**: An individual matrix is identified by `matrix[row][column]`
 
+#### Q4: How do you swap two array elements  in JavaScript
+
+**Answer**:`[nums[left],nums[right]]=[nums[right],nums[left]]`
