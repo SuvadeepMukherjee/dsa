@@ -1,9 +1,41 @@
 ## Basic Notes
 
-#### Javascript short circuiting
+#### Q:What will be the result ? 
 
-**Answer**:
+```js
+let a = true && false && "hello";
 
-AND Short circuting => evaluation stops as soon as a false result is encountered
+console.log(a);
+```
 
-OR Short circuiting => evaluation stops as soon as a true result is encountered. 
+**Answer**: AND Short circuiting returns the first falsy value or the last truthy value if all are true, so false will be logged to the console
+
+#### Q:What will be logged to the console ? 
+
+```js
+let a = "hi" && 42 && "hello";
+
+console.log(a);
+```
+
+**Answer**:AND Short circuiting returns the first falsy value or the last truthy value if all are true , so hello will be logged to the console
+
+#### Q:What will be logged to the console ? 
+
+```js
+let a = false || 0 || "hello";
+
+console.log(a);
+```
+
+**Answer**:OR Short circuiting returns the **first truthy value** or the **last falsy value** if all are false. so hello will be logged to the console
+
+#### Q:What will be logged to the console ? 
+
+```js
+let b = null || undefined || 0;
+
+console.log(b);
+```
+
+**Answer**: OR Short circuiting returns the **first truthy value** or the **last falsy value** if all are false , so 0 will be logged to the console 
