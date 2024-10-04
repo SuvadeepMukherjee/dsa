@@ -1,39 +1,36 @@
 var spiralOrder = function (matrix) {
-  let ans = [];
-  let n = matrix.length;
-  let m = matrix[0].length;
-  let top = 0;
   let left = 0;
-  let bottom = n - 1;
-  let right = m - 1;
-
-  // Traverse the matrix in spiral order
-  while (top <= bottom && left <= right) {
-    // Traverse from left to right
+  let right = matrix[0].length - 1;
+  let top = 0;
+  let bottom = matrix.length - 1;
+  let arr = [];
+  while (left <= right && top <= bottom) {
+    //left to right
     for (let i = left; i <= right; i++) {
-      ans.push(matrix[top][i]);
+      arr.push(matrix[top][i]);
     }
     top++;
-    // Traverse from top to bottom
+
+    //traverse from top to bottom
     for (let i = top; i <= bottom; i++) {
-      ans.push(matrix[i][right]);
+      arr.push(matrix[i][right]);
     }
     right--;
-    // Traverse from right to left
-    if (top <= bottom) {
-      for (let i = right; i >= left; i--) {
-        ans.push(matrix[bottom][i]);
-      }
-      bottom--;
-    }
-    // Traverse from bottom to top
-    if (left <= right) {
-      for (let i = bottom; i >= top; i--) {
-        ans.push(matrix[i][left]);
-      }
-      left++;
-    }
-  }
 
-  return ans;
+    if (!(left <= right && top <= bottom)) {
+      break;
+    }
+    //traverse from right to left
+    for (let i = right; i >= left; i--) {
+      arr.push(matrix[bottom][i]);
+    }
+    bottom--;
+
+    //traverse from bottom to top
+    for (let i = bottom; i >= top; i--) {
+      arr.push(matrix[i][left]);
+    }
+    left++;
+  }
+  return arr;
 };
