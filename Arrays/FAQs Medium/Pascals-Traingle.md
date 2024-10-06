@@ -29,36 +29,60 @@ console.log(nCr(5, 3));
 #### Q2: Print the nth row of pascals triangle ? 
 
 ```js
-function nCr(n, r) {
-
-  let res = 1;
-
-  for (let i = 0; i < r; i++) {
-
-    res = res * (n - i);
-
-   res = Math.floor(res / (i + 1));
-
-  }
-
-  return res;
-
-}
-
-function generate(n) {
-
+function nthRow(n) {
   let arr = [];
-
-  for (let c = 1; c <= n; c++) {
-
-    arr.push(nCr(n - 1, c - 1));
-
+  arr.push(1);
+  let ans = 1;
+  for (let i = 1; i < n; i++) {
+    ans = ans * (n - i);
+    ans = Math.floor(ans / i);
+    arr.push(ans);
   }
-
   return arr;
-
 }
+console.log(nthRow(5));
 
-console.log(generate(6));
+```
+
+#### Q3:Question can be found [here](https://leetcode.com/problems/pascals-triangle/description/)
+
+**Solution**:
+
+```js
+var generate = function(numRows) {
+
+    function nthRow(n) {
+
+      let arr = [];
+
+      arr.push(1);
+
+      let ans = 1;
+
+      for (let i = 1; i < n; i++) {
+
+        ans = ans * (n - i);
+
+        ans = Math.floor(ans / i);
+
+        arr.push(ans);
+
+      }
+
+      return arr;
+
+    }
+
+    let pascalTriangle = [];
+
+    for (let row = 1; row <= numRows; row++) {
+
+      pascalTriangle.push(nthRow(row));
+
+    }
+
+    return pascalTriangle;
+
+};
 ```
 
