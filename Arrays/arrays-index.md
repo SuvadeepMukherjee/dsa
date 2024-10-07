@@ -36,7 +36,17 @@
 | [Sort an array of 0s,1s and 2s](https://www.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1?itm_source=geeksforgeeks&itm_medium=article&itm_campaign=practice_card) | [Link](https://github.com/SuvadeepMukherjee/dsa-to-do-sheet/blob/main/Arrays/FAQs%20Medium/sort-arrays-of-0s-1s-2s.js) | ✅      |             |
 | Kadanes Algorithm                                            |                                                              |        |             |
 
+#### FAQs (Hard)
 
+| Questions                                 | Solution | Status | Anki Needed for now |
+| ----------------------------------------- | -------- | ------ | ------------------- |
+| Majority Element - 1                      |          |        |                     |
+| Majority Element - 2                      |          |        |                     |
+| Repeating and missing number              |          |        |                     |
+| Count inversions                          |          |        |                     |
+| Reverse Pairs                             |          |        |                     |
+| Maximum Product Subarray in an array      |          |        |                     |
+| Merge 2 sorted arrays without extra space |          |        |                     |
 
 
 
