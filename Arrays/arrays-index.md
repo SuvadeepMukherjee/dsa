@@ -55,3 +55,5 @@
 Progress Check : 
 
 Fundamentals Completed ✅
+
+Logic Building Completed ✅
