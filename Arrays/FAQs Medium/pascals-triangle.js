@@ -1,10 +1,12 @@
-function nCr(n, r) {
+function nthRow(n) {
+  let arr = [];
+  arr.push(1);
   let res = 1;
-  for (let i = 0; i < r; i++) {
+  for (let i = 1; i < n; i++) {
     res = res * (n - i);
-    res = Math.floor(res / (i + 1));
+    res = Math.floor(res / i);
+    arr.push(res);
   }
-  return res;
+  return arr;
 }
-
-console.log(nCr(5, 3));
+console.log(nthRow(6));
