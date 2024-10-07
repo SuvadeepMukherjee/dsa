@@ -1,18 +1,10 @@
 class Solution {
   rotateArrayByOne(nums) {
-    function reverse(arr, start, end) {
-      let left = start;
-      let right = end;
-      while (left < right) {
-        let tmp = arr[left];
-        arr[left] = arr[right];
-        arr[right] = tmp;
-        left++;
-        right--;
-      }
+    let tmp = nums[0];
+    for (let i = 1; i < nums.length; i++) {
+      nums[i - 1] = nums[i];
     }
-    reverse(nums, 0, 0);
-    reverse(nums, 1, nums.length - 1);
-    reverse(nums, 0, nums.length - 1);
+    nums[nums.length - 1] = tmp;
+    return nums;
   }
 }
