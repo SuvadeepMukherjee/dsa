@@ -9,3 +9,5 @@
 [Hashing](https://github.com/SuvadeepMukherjee/dsa-to-do-sheet/blob/main/Hashing/hashing-readme.md)
 
 [Binary Search](https://github.com/SuvadeepMukherjee/dsa-to-do-sheet/blob/main/Binary%20Search/binary-search-readme.md)
+
+[Linked List]
