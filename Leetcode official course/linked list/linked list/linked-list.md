@@ -138,3 +138,6 @@ let addNode = (prevNode, nodeToAdd) => {
 };
 ```
 
+Time Complexity : O(1) [ here we are given the reference to prevNode so O(1) , if we were not given reference to prevNode then O(N) ]
+
+Space Complexity : O(1)
