@@ -141,3 +141,44 @@ let addNode = (prevNode, nodeToAdd) => {
 Time Complexity : O(1) [ here we are given the reference to prevNode so O(1) , if we were not given reference to prevNode then O(N) ]
 
 Space Complexity : O(1)
+
+##### **Problem 3**: Delete an element of a Linked List at position i , we have the pointer to the element at position i-1(prevNode)
+
+```js
+class ListNode {
+
+  constructor(val) {
+
+    this.val = val;
+
+    this.next = null;
+
+  }
+
+}
+
+let deleteNode = (prevNode) => {};
+```
+
+**Solution**:
+
+```js
+class ListNode {
+
+  constructor(val) {
+
+    this.val = val;
+
+    this.next = null;
+
+  }
+
+}
+
+let deleteNode = (prevNode) => {
+
+  prevNode.next = prevNode.next.next;
+
+};
+```
+

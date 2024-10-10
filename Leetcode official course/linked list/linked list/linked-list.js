@@ -5,7 +5,6 @@ class ListNode {
   }
 }
 
-let addNode = (prevNode, nodeToAdd) => {
-  nodeToAdd.next = prevNode.next;
-  prevNode.next = nodeToAdd;
+let deleteNode = (prevNode) => {
+  prevNode.next = prevNode.next.next;
 };
