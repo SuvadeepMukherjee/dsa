@@ -128,3 +128,43 @@ let findNode = (head, k) => {};
 
 **Solution**:
 
+Approach: Sepaerate the 2 pointers by a gap of k and then move them at the same speed , they will always be k apart .When the fast pointer (the one further ahead) reaches the end , then the slow pointer must be at the desired node since its k nodes behind
+
+class ListNode {
+
+  constructor(val) {
+
+​    this.val = val;
+
+​    this.next = null;
+
+  }
+
+}
+
+```js
+let findNode = (head, k) => {
+
+  let slow = head;
+
+  let fast = head;
+
+  for (let i = 0; i < k; i++) {
+
+    fast = fast.next;
+
+  }
+
+  while (fast) {
+
+    slow = slow.next;
+
+    fast = fast.next;
+
+  }
+
+  return slow;
+
+};
+```
+
