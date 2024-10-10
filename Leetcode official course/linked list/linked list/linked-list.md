@@ -40,7 +40,7 @@ two.next = three;
 1. No random access
 2. More overhead than arrays (Every element needs to have extra storage for the pointers)
 
-##### Given the head of a Linked List , find the sum of all values from an integer Linked List(Anki)
+##### **Problem 1**: Given the head of a Linked List , find the sum of all values from an integer Linked List(Anki)
 
 ```js
 class ListNode {
@@ -88,6 +88,52 @@ let getSum = (head) => {
   }
 
   return sum;
+
+};
+```
+
+Time Complexity : O(n)
+
+Space Complexity : O(1)
+
+#### **Problem 2**: Add an element to a Linked list so that it becomes the element at position i , we have the pointer to the element currently at position i-1
+
+```js
+class ListNode {
+
+  constructor(val) {
+
+    this.val = val;
+
+    this.next = null;
+
+  }
+
+}
+
+let addNode = (prevNode, nodeToAdd) => {}; 
+```
+
+**Solution**:
+
+```js
+class ListNode {
+
+  constructor(val) {
+
+    this.val = val;
+
+    this.next = null;
+
+  }
+
+}
+
+let addNode = (prevNode, nodeToAdd) => {
+
+  nodeToAdd.next = prevNode.next;
+
+  prevNode.next = nodeToAdd;
 
 };
 ```

@@ -5,12 +5,7 @@ class ListNode {
   }
 }
 
-let getSum = (head) => {
-  let curr = head;
-  let sum = 0;
-  while (curr) {
-    sum += curr.val;
-    curr = curr.next;
-  }
-  return sum;
+let addNode = (prevNode, nodeToAdd) => {
+  nodeToAdd.next = prevNode.next;
+  prevNode.next = nodeToAdd;
 };
