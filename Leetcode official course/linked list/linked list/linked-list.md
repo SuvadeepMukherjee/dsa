@@ -183,3 +183,5 @@ let deleteNode = (prevNode) => {
 ```
 
 Time Complexity : Here we have a reference to the node at i-1 then insertion and deletion is O(1) .However without that reference we need to obtain the reference by iterating from the head which for an arbitrary position  is O(n)
+
+Space Complexity : O(1)
