@@ -1,10 +1,10 @@
 ## Stacks Notes
 
-#### Q1:What is a  stack ?(Anki)
+#### Q1:What is a  stack ?
 
 **Answer**: a stack is an ordered collection of elements where elements are only added and removed from the same end.Another term used to describe stacks is **LIFO** which stands for *last in , first out* .The last (most recent) element placed inside is the first element to come out
 
-#### Q2:What are the major operations on a stack ? (Anki)
+#### Q2:What are the major operations on a stack ? 
 
 **Answer**: The following are the major operations on a stack 
 
