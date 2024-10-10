@@ -5,8 +5,12 @@ class ListNode {
   }
 }
 
-let one = new ListNode(1);
-let two = new ListNode(2);
-let three = new ListNode(3);
-one.next = two;
-two.next = three;
+let getSum = (head) => {
+  let curr = head;
+  let sum = 0;
+  while (curr) {
+    sum += curr.val;
+    curr = curr.next;
+  }
+  return sum;
+};

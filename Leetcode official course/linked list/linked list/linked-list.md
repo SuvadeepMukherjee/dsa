@@ -30,3 +30,65 @@ one.next = two;
 two.next = three;
 ```
 
+##### Advantages of Linked List compared to arrays: (Anki)
+
+1. Add and remove elements at any position is O(1) (If we dont have reference to the node we will need to traverse to that position which takes O(n)). This is still much better than a normal (dynamic) array which requires O(n) for adding and removing from an arbitrary position
+2. Linked List have the advantage of not having fixed size (While dynamic arrays can be resized under the hood they still are allocated a fixed size, when this size is exceeded the array is resized which is expensive , Linked lists dont suffer from this)
+
+##### Disadvantages of Linked List compared  to arrays(Anki)
+
+1. No random access
+2. More overhead than arrays (Every element needs to have extra storage for the pointers)
+
+##### Given the head of a Linked List , find the sum of all values from an integer Linked List(Anki)
+
+```js
+class ListNode {
+
+  constructor(val) {
+
+    this.val = val;
+
+    this.next = null;
+
+  }
+
+}
+
+let getSum = (head) => {};
+```
+
+**Solution**:
+
+```js
+class ListNode {
+
+  constructor(val) {
+
+    this.val = val;
+
+    this.next = null;
+
+  }
+
+}
+
+let getSum = (head) => {
+
+  let curr = head;
+
+  let sum = 0;
+
+  while (curr) {
+
+    sum += curr.val;
+
+    curr = curr.next;
+
+  }
+
+  return sum;
+
+};
+```
+
