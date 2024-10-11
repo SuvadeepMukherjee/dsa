@@ -46,7 +46,7 @@ console.log(nums);
 
 **Answer**:`[nums[left],nums[right]]=[nums[right],nums[left]]`
 
-##### Q5: Array.prototype.join() => 
+##### Q5: Array.prototype.join() => (Anki not added)
 
 **Answer**: The join() method of array instances creates and returns a new string by concatenating all of the elements in this array , seperated by commas or a specified seperator string .If the array is only one item , then that item will be returned without using the seperator
 
