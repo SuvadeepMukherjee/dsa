@@ -45,3 +45,9 @@ console.log(nums);
 #### Q4: How do you swap two array elements  in JavaScript
 
 **Answer**:`[nums[left],nums[right]]=[nums[right],nums[left]]`
+
+##### Q5: Array.prototype.join() => 
+
+**Answer**: The join() method of array instances creates and returns a new string by concatenating all of the elements in this array , seperated by commas or a specified seperator string .If the array is only one item , then that item will be returned without using the seperator
+
+Syntax : `join()`, `join(seperator)`

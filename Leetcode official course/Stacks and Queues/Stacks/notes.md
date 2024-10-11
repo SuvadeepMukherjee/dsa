@@ -30,5 +30,6 @@ check element at top => stack[stack.length-1]
 
 get size => stack.length
 
+##### Q5:Write a boolean which returns true if the stack is non-empty ? 
 
-
+**Answer**: `stack.length`
